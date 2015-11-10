@@ -1,2 +1,2 @@
-# Kairos_Prototype
+# Kairos Prototype
 Prototype work for CMPM 170 game
